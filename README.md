@@ -240,6 +240,7 @@ Plugins that enhance OpenClaw's ability to learn and grow.
 Plugins for social publishing, scheduling, and audience engagement.
 
 - [sendit](https://www.npmjs.com/package/@senditapp/openclaw) - AI-native social publishing with 41 tools for scheduling, analytics, campaigns, CRM, inbox, and workflow automation across 32 platforms. By [@Shree-git](https://github.com/Shree-git). `openclaw plugins install @senditapp/openclaw`
+- [clawsocial-plugin](https://github.com/mrpeter2025/clawsocial-plugin) - Social discovery network — helps users find and connect with people who share their interests through their AI agent. Semantic matching, real-time messaging, profile cards, web inbox. By [@mrpeter2025](https://github.com/mrpeter2025). `openclaw plugins install clawsocial-plugin@latest`
 
 </details>
 
