@@ -169,7 +169,6 @@ Enhance the gateway experience with quality-of-life improvements.
 - [claw-turbo](https://github.com/jacobye2017-afk/claw-turbo) - Regex skill router with OpenClaw integration that short-circuits common commands locally to cut latency and improve tool-calling reliability on weaker models. By [@jacobye2017-afk](https://github.com/jacobye2017-afk). `git clone https://github.com/jacobye2017-afk/claw-turbo.git && cd claw-turbo && pip install -e . && claw-turbo install`
 - [discourse-openclaw](https://github.com/pranciskus/discourse-openclaw) - Discourse forum integration — search, read, create topics/posts, find unanswered questions. By [@pranciskus](https://github.com/pranciskus). `openclaw plugins install openclaw-discourse`
 - [manager](https://github.com/ClariSortAi/openclaw-manager-plugin) - Intelligent installation, configuration, and management for OpenClaw instances. By [@ClariSortAi](https://github.com/ClariSortAi). `openclaw plugins install https://github.com/ClariSortAi/openclaw-manager-plugin.git`
-- [tweetclaw](https://github.com/Xquik-dev/tweetclaw) - Post tweets, reply, like, retweet, follow, DM & more from your chat. 40+ X/Twitter endpoints via Xquik. By [@Xquik-dev](https://github.com/Xquik-dev). `openclaw plugins install @xquik/tweetclaw`
 - [2do](https://github.com/chuckiefan/moltbot-plugin-2do) - 2Do task app integration — send tasks via natural language to 2Do's Email-to-Task feature. By [@chuckiefan](https://github.com/chuckiefan). `openclaw plugins install https://github.com/chuckiefan/moltbot-plugin-2do.git`
 - [clawcollect](https://github.com/ruan11223344/clawcollect) - Hosted form collection bridge — open a form from chat, share a public link, check response progress, and summarize results. Supports managed and self-hosted (Cloudflare Workers + D1) backends. By [@ruan11223344](https://github.com/ruan11223344). `openclaw plugins install @clawcollect/clawcollect`
 
@@ -240,6 +239,7 @@ Plugins that enhance OpenClaw's ability to learn and grow.
 Plugins for social publishing, scheduling, and audience engagement.
 
 - [sendit](https://www.npmjs.com/package/@senditapp/openclaw) - AI-native social publishing with 41 tools for scheduling, analytics, campaigns, CRM, inbox, and workflow automation across 32 platforms. By [@Shree-git](https://github.com/Shree-git). `openclaw plugins install @senditapp/openclaw`
+- [tweetclaw](https://github.com/Xquik-dev/tweetclaw) - Post tweets, reply, like, retweet, follow, DM & more from your chat. 40+ X/Twitter endpoints via Xquik. By [@Xquik-dev](https://github.com/Xquik-dev). `openclaw plugins install @xquik/tweetclaw`
 
 </details>
 
