@@ -201,6 +201,7 @@ Add guardrails and governance to your agent.
 Run distributed agents and coordinate across instances.
 
 - [ansible](https://github.com/likesjx/openclaw-plugin-ansible) - Distributed coordination layer — one agent, multiple bodies across machines. By [@likesjx](https://github.com/likesjx). `openclaw plugins install https://github.com/likesjx/openclaw-plugin-ansible.git`
+- [clawrecipes](https://github.com/JIGGAI/ClawRecipes) - Scaffold teams and agents from recipe templates, enforce repeatable structures, and run file-first delivery with clean handoffs. By [@rjdjohnston](https://github.com/rjdjohnston `openclaw plugins install @jiggai/recipes`
 
 </details>
 
@@ -212,6 +213,7 @@ Monitor, debug, and manage your OpenClaw instances.
 - [observatory](https://github.com/ThisIsJeron/openclaw-observatory) - Self-hosted observability dashboard — monitor sessions, context windows, costs, and failures across multiple gateways. By [@ThisIsJeron](https://github.com/ThisIsJeron). `openclaw plugins install @thisisjeron/openclaw-observatory`
 - [Manifest](https://github.com/mnfst/manifest) - Real-time cost observability for OpenClaw agents — track tokens, costs, messages, and model usage. Self-hosted, local-first, supports 28+ LLM models. Website: [manifest.build](https://manifest.build). By [@mnfst](https://github.com/mnfst). `openclaw plugins install manifest`
 - [opik-openclaw](https://github.com/comet-ml/opik-openclaw) - OpenClaw plugin that exports agent traces to Opik with LLM/tool/sub-agent spans plus usage and cost metadata. By [@comet-ml](https://github.com/comet-ml). `openclaw plugins install @opik/opik-openclaw`
+- [clawkitchen](https://github.com/JIGGAI/ClawKitchen) - Day-to-day control center for your agent organization: teams, files, workflows, and operational visibility. By [@rjdjohnston](https://github.com/rjdjohnston `openclaw plugins install @jiggai/kitchen`
 
 </details>
 
