@@ -192,6 +192,7 @@ Add guardrails and governance to your agent.
 - [guardspine](https://github.com/DNYoussef/guardspine-openclaw) - Deny-by-default tool gating with L0-L4 risk tiers, 3-model council verification, and evidence packs. By [@DNYoussef](https://github.com/DNYoussef). `openclaw plugins install https://github.com/DNYoussef/guardspine-openclaw.git`
 - [air-trust](https://github.com/airblackbox/openclaw-air-trust) - EU AI Act compliance layer — HMAC-SHA256 tamper-evident audit chains, consent gating for destructive tools, PII/credential tokenization, and 15-pattern prompt injection detection. 6 agent tools + 3 event hooks. By [@airblackbox](https://github.com/airblackbox). `npm install openclaw-air-trust`
 - [codex-watchdog](https://github.com/ThisIsJeron/openclaw-codex-watchdog) - Guardrail plugin that blocks Codex narrative-loop replies when action-oriented runs make zero tool calls, replacing fake progress with an honest watchdog message. By [@ThisIsJeron](https://github.com/ThisIsJeron). `openclaw plugins install https://github.com/ThisIsJeron/openclaw-codex-watchdog.git`
+- [ClawLens](https://github.com/nk3750/clawlens) - Local-first observability and guardrails for OpenClaw agents — records every tool call before execution, scores risk, keeps a tamper-evident hash-chain audit trail, and turns observed actions into block / require-approval / allow-notify guardrails delivered to Telegram. By [@nk3750](https://github.com/nk3750). `openclaw plugins install clawhub:@nk3750/openclaw-clawlens`
 
 </details>
 
