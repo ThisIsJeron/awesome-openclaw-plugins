@@ -254,6 +254,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding plugins to this 
 - [ClawHub](https://clawhub.com) — Official skill registry
 - [Plugin Documentation](https://docs.openclaw.ai/plugin) — Official plugin authoring guide
 - [Plugin Agent Tools](https://docs.openclaw.ai/plugins/agent-tools) — How to add agent tools in plugins
+- [Open Index](https://github.com/DrDroidLab/open-index) — Structured context graphs and an MCP server for domain-specific agents, with a portable OpenClaw setup skill
 
 ## License
 
