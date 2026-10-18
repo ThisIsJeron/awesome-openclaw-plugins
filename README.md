@@ -171,6 +171,7 @@ Enhance the gateway experience with quality-of-life improvements.
 - [manager](https://github.com/ClariSortAi/openclaw-manager-plugin) - Intelligent installation, configuration, and management for OpenClaw instances. By [@ClariSortAi](https://github.com/ClariSortAi). `openclaw plugins install https://github.com/ClariSortAi/openclaw-manager-plugin.git`
 - [2do](https://github.com/chuckiefan/moltbot-plugin-2do) - 2Do task app integration — send tasks via natural language to 2Do's Email-to-Task feature. By [@chuckiefan](https://github.com/chuckiefan). `openclaw plugins install https://github.com/chuckiefan/moltbot-plugin-2do.git`
 - [clawcollect](https://github.com/ruan11223344/clawcollect) - Hosted form collection bridge — open a form from chat, share a public link, check response progress, and summarize results. Supports managed and self-hosted (Cloudflare Workers + D1) backends. By [@ruan11223344](https://github.com/ruan11223344). `openclaw plugins install @clawcollect/clawcollect`
+- [reply-push-v2](https://github.com/verdeoc/reply-push-v2) - Native per-category iOS push notifications for OpenClaw, delivered to the official App Store app. Free edition 2.1.1 pushes `agentFinished`; Pro adds 4 more categories. By [@verdeoc](https://github.com/verdeoc). `openclaw plugins install reply-push-v2` · [ClawHub](https://clawhub.ai/verdeoc/plugins/reply-push-v2)
 
 </details>
 
